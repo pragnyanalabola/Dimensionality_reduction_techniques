@@ -1,10 +1,10 @@
-##Dimensionality Reduction Techniques
+## Dimensionality Reduction Techniques
 
 
-cd DRT
+## cd DRT
 
 
-pip install streamlit tensorflow matplotlib seaborn scikit-learn
+## pip install streamlit tensorflow matplotlib seaborn scikit-learn
 
 
-streamlit run DRT.py
+## streamlit run DRT.py
